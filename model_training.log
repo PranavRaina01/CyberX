@@ -1,0 +1,457 @@
+2025-05-04 16:45:58,197 - INFO - Starting model training at 2025-05-04 16:45:58.197753
+2025-05-04 16:46:00,319 - INFO - Model Performance Metrics:
+2025-05-04 16:46:00,319 - INFO - Accuracy: 0.7800
+2025-05-04 16:46:00,319 - INFO - Precision: 0.6744
+2025-05-04 16:46:00,319 - INFO - Recall: 0.7800
+2025-05-04 16:46:00,319 - INFO - F1 Score: 0.7134
+2025-05-04 16:46:00,319 - INFO - Confusion Matrix:
+[[155   6]
+ [ 38   1]]
+2025-05-04 16:46:00,384 - INFO - Model saved to model.pkl
+2025-05-04 16:46:00,385 - INFO - Model training completed successfully
+2025-05-04 16:49:32,357 - INFO - Starting model training at 2025-05-04 16:49:32.357764
+2025-05-04 16:49:34,870 - INFO - Model Performance Metrics:
+2025-05-04 16:49:34,870 - INFO - Accuracy: 0.7850
+2025-05-04 16:49:34,871 - INFO - Precision: 0.6376
+2025-05-04 16:49:34,871 - INFO - Recall: 0.7850
+2025-05-04 16:49:34,871 - INFO - F1 Score: 0.7036
+2025-05-04 16:49:34,872 - INFO - Confusion Matrix:
+[[157   3]
+ [ 40   0]]
+2025-05-04 16:49:34,926 - INFO - Model saved to model.pkl
+2025-05-04 16:49:34,926 - INFO - Model training completed successfully
+2025-05-04 16:50:10,511 - INFO - Model loaded successfully
+2025-05-04 16:50:10,588 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-04 16:50:10,588 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 16:50:10,591 - INFO -  * Restarting with stat
+2025-05-04 16:50:12,431 - INFO - Model loaded successfully
+2025-05-04 16:50:12,450 - WARNING -  * Debugger is active!
+2025-05-04 16:50:12,464 - INFO -  * Debugger PIN: 842-427-434
+2025-05-04 16:50:16,308 - INFO - 127.0.0.1 - - [04/May/2025 16:50:16] "[33mGET / HTTP/1.1[0m" 404 -
+2025-05-04 16:50:23,382 - INFO - 127.0.0.1 - - [04/May/2025 16:50:23] "[33mGET / HTTP/1.1[0m" 404 -
+2025-05-04 16:50:23,684 - INFO - 127.0.0.1 - - [04/May/2025 16:50:23] "[33mGET / HTTP/1.1[0m" 404 -
+2025-05-04 16:50:23,876 - INFO - 127.0.0.1 - - [04/May/2025 16:50:23] "[33mGET / HTTP/1.1[0m" 404 -
+2025-05-04 16:51:57,223 - INFO - Model loaded successfully
+2025-05-04 16:51:57,262 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-04 16:51:57,263 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 16:51:57,265 - INFO -  * Restarting with stat
+2025-05-04 16:51:59,041 - INFO - Model loaded successfully
+2025-05-04 16:51:59,062 - WARNING -  * Debugger is active!
+2025-05-04 16:51:59,075 - INFO -  * Debugger PIN: 842-427-434
+2025-05-04 16:52:04,493 - INFO - 127.0.0.1 - - [04/May/2025 16:52:04] "GET / HTTP/1.1" 200 -
+2025-05-04 16:52:05,046 - INFO - 127.0.0.1 - - [04/May/2025 16:52:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 16:52:12,915 - INFO - 127.0.0.1 - - [04/May/2025 16:52:12] "GET / HTTP/1.1" 200 -
+2025-05-04 16:52:12,939 - INFO - 127.0.0.1 - - [04/May/2025 16:52:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 16:52:13,101 - INFO - 127.0.0.1 - - [04/May/2025 16:52:13] "GET / HTTP/1.1" 200 -
+2025-05-04 16:52:13,122 - INFO - 127.0.0.1 - - [04/May/2025 16:52:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 16:52:13,287 - INFO - 127.0.0.1 - - [04/May/2025 16:52:13] "GET / HTTP/1.1" 200 -
+2025-05-04 16:52:13,306 - INFO - 127.0.0.1 - - [04/May/2025 16:52:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 16:52:13,478 - INFO - 127.0.0.1 - - [04/May/2025 16:52:13] "GET / HTTP/1.1" 200 -
+2025-05-04 16:52:13,496 - INFO - 127.0.0.1 - - [04/May/2025 16:52:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 16:57:07,896 - INFO - Model loaded successfully
+2025-05-04 16:57:07,930 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-04 16:57:07,930 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 16:57:07,932 - INFO -  * Restarting with stat
+2025-05-04 16:57:09,816 - INFO - Model loaded successfully
+2025-05-04 16:57:09,834 - WARNING -  * Debugger is active!
+2025-05-04 16:57:09,845 - INFO -  * Debugger PIN: 842-427-434
+2025-05-04 16:57:16,256 - INFO - 127.0.0.1 - - [04/May/2025 16:57:16] "GET / HTTP/1.1" 200 -
+2025-05-04 16:57:16,265 - INFO - 127.0.0.1 - - [04/May/2025 16:57:16] "GET / HTTP/1.1" 200 -
+2025-05-04 16:57:16,266 - INFO - 127.0.0.1 - - [04/May/2025 16:57:16] "GET / HTTP/1.1" 200 -
+2025-05-04 16:57:16,269 - INFO - 127.0.0.1 - - [04/May/2025 16:57:16] "GET / HTTP/1.1" 200 -
+2025-05-04 16:57:16,272 - INFO - 127.0.0.1 - - [04/May/2025 16:57:16] "GET / HTTP/1.1" 200 -
+2025-05-04 16:57:16,385 - INFO - 127.0.0.1 - - [04/May/2025 16:57:16] "GET / HTTP/1.1" 200 -
+2025-05-04 16:57:18,230 - INFO - 127.0.0.1 - - [04/May/2025 16:57:18] "GET /static/styles.css HTTP/1.1" 200 -
+2025-05-04 16:57:18,231 - INFO - 127.0.0.1 - - [04/May/2025 16:57:18] "GET /static/styles.css HTTP/1.1" 200 -
+2025-05-04 16:57:18,232 - INFO - 127.0.0.1 - - [04/May/2025 16:57:18] "GET /static/styles.css HTTP/1.1" 200 -
+2025-05-04 16:57:18,232 - INFO - 127.0.0.1 - - [04/May/2025 16:57:18] "GET /static/styles.css HTTP/1.1" 200 -
+2025-05-04 16:58:20,355 - ERROR - Error during prediction: X has 5 features, but StandardScaler is expecting 8 features as input.
+Traceback (most recent call last):
+  File "C:\Users\ACER\OneDrive\Desktop\CyberX\train_model.py", line 156, in predict
+    features_scaled = self.scaler.transform(features)
+  File "C:\Users\ACER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\utils\_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+  File "C:\Users\ACER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\preprocessing\_data.py", line 1004, in transform
+    X = self._validate_data(
+  File "C:\Users\ACER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\base.py", line 625, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Users\ACER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\base.py", line 414, in _check_n_features
+    raise ValueError(
+ValueError: X has 5 features, but StandardScaler is expecting 8 features as input.
+2025-05-04 16:58:20,359 - ERROR - Error in traffic analysis: X has 5 features, but StandardScaler is expecting 8 features as input.
+2025-05-04 16:58:20,359 - ERROR - Error during prediction: X has 5 features, but StandardScaler is expecting 8 features as input.
+2025-05-04 16:58:20,359 - INFO - 127.0.0.1 - - [04/May/2025 16:58:20] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-05-04 16:59:39,957 - INFO -  * Detected change in 'C:\\Users\\ACER\\OneDrive\\Desktop\\CyberX\\app.py', reloading
+2025-05-04 16:59:40,193 - INFO -  * Restarting with stat
+2025-05-04 16:59:42,293 - INFO - Model loaded successfully
+2025-05-04 16:59:42,314 - WARNING -  * Debugger is active!
+2025-05-04 16:59:42,324 - INFO -  * Debugger PIN: 842-427-434
+2025-05-04 17:03:04,924 - INFO -  * Detected change in 'C:\\Users\\ACER\\OneDrive\\Desktop\\CyberX\\app.py', reloading
+2025-05-04 17:03:05,093 - INFO -  * Restarting with stat
+2025-05-04 17:03:07,074 - INFO - Model loaded successfully
+2025-05-04 17:03:07,092 - WARNING -  * Debugger is active!
+2025-05-04 17:03:07,101 - INFO -  * Debugger PIN: 842-427-434
+2025-05-04 17:07:45,914 - INFO -  * Detected change in 'C:\\Users\\ACER\\OneDrive\\Desktop\\CyberX\\app.py', reloading
+2025-05-04 17:07:46,121 - INFO -  * Restarting with stat
+2025-05-04 17:07:48,814 - INFO - Model loaded successfully
+2025-05-04 17:07:48,838 - WARNING -  * Debugger is active!
+2025-05-04 17:07:48,851 - INFO -  * Debugger PIN: 842-427-434
+2025-05-04 17:09:24,544 - INFO - 127.0.0.1 - - [04/May/2025 17:09:24] "GET / HTTP/1.1" 200 -
+2025-05-04 17:09:25,206 - INFO - 127.0.0.1 - - [04/May/2025 17:09:25] "GET / HTTP/1.1" 200 -
+2025-05-04 17:09:25,363 - INFO - 127.0.0.1 - - [04/May/2025 17:09:25] "GET / HTTP/1.1" 200 -
+2025-05-04 17:09:25,465 - INFO - 127.0.0.1 - - [04/May/2025 17:09:25] "GET / HTTP/1.1" 200 -
+2025-05-04 17:09:26,408 - INFO - 127.0.0.1 - - [04/May/2025 17:09:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 17:09:26,429 - INFO - 127.0.0.1 - - [04/May/2025 17:09:26] "GET /static/styles.css HTTP/1.1" 200 -
+2025-05-04 17:09:26,949 - INFO - 127.0.0.1 - - [04/May/2025 17:09:26] "GET /static/styles.css HTTP/1.1" 200 -
+2025-05-04 17:09:27,415 - INFO - 127.0.0.1 - - [04/May/2025 17:09:27] "GET /static/styles.css HTTP/1.1" 200 -
+2025-05-04 17:10:23,706 - ERROR - Prediction error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-04 17:10:23,707 - ERROR - Error during prediction: X has 5 features, but StandardScaler is expecting 8 features as input.
+Traceback (most recent call last):
+  File "C:\Users\ACER\OneDrive\Desktop\CyberX\train_model.py", line 156, in predict
+    features_scaled = self.scaler.transform(features)
+  File "C:\Users\ACER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\utils\_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+  File "C:\Users\ACER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\preprocessing\_data.py", line 1004, in transform
+    X = self._validate_data(
+  File "C:\Users\ACER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\base.py", line 625, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Users\ACER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\base.py", line 414, in _check_n_features
+    raise ValueError(
+ValueError: X has 5 features, but StandardScaler is expecting 8 features as input.
+2025-05-04 17:10:23,708 - INFO - 127.0.0.1 - - [04/May/2025 17:10:23] "POST /predict HTTP/1.1" 200 -
+2025-05-04 17:10:23,711 - ERROR - Error in traffic analysis: X has 5 features, but StandardScaler is expecting 8 features as input.
+2025-05-04 17:10:23,712 - ERROR - Prediction error: X has 5 features, but StandardScaler is expecting 8 features as input.
+2025-05-04 17:10:23,714 - INFO - 127.0.0.1 - - [04/May/2025 17:10:23] "POST /predict HTTP/1.1" 200 -
+2025-05-04 17:10:31,188 - ERROR - Prediction error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-04 17:10:31,189 - ERROR - Error during prediction: X has 5 features, but StandardScaler is expecting 8 features as input.
+Traceback (most recent call last):
+  File "C:\Users\ACER\OneDrive\Desktop\CyberX\train_model.py", line 156, in predict
+    features_scaled = self.scaler.transform(features)
+  File "C:\Users\ACER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\utils\_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+  File "C:\Users\ACER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\preprocessing\_data.py", line 1004, in transform
+    X = self._validate_data(
+  File "C:\Users\ACER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\base.py", line 625, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Users\ACER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\base.py", line 414, in _check_n_features
+    raise ValueError(
+ValueError: X has 5 features, but StandardScaler is expecting 8 features as input.
+2025-05-04 17:10:31,190 - INFO - 127.0.0.1 - - [04/May/2025 17:10:31] "POST /predict HTTP/1.1" 200 -
+2025-05-04 17:10:31,192 - ERROR - Error in traffic analysis: X has 5 features, but StandardScaler is expecting 8 features as input.
+2025-05-04 17:10:31,193 - ERROR - Prediction error: X has 5 features, but StandardScaler is expecting 8 features as input.
+2025-05-04 17:10:31,201 - INFO - 127.0.0.1 - - [04/May/2025 17:10:31] "POST /predict HTTP/1.1" 200 -
+2025-05-04 17:11:01,679 - ERROR - Error during prediction: X has 5 features, but StandardScaler is expecting 8 features as input.
+Traceback (most recent call last):
+  File "C:\Users\ACER\OneDrive\Desktop\CyberX\train_model.py", line 156, in predict
+    features_scaled = self.scaler.transform(features)
+  File "C:\Users\ACER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\utils\_set_output.py", line 140, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+  File "C:\Users\ACER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\preprocessing\_data.py", line 1004, in transform
+    X = self._validate_data(
+  File "C:\Users\ACER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\base.py", line 625, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Users\ACER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\sklearn\base.py", line 414, in _check_n_features
+    raise ValueError(
+ValueError: X has 5 features, but StandardScaler is expecting 8 features as input.
+2025-05-04 17:11:01,680 - ERROR - Prediction error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-04 17:11:01,681 - ERROR - Error in traffic analysis: X has 5 features, but StandardScaler is expecting 8 features as input.
+2025-05-04 17:11:01,682 - INFO - 127.0.0.1 - - [04/May/2025 17:11:01] "POST /predict HTTP/1.1" 200 -
+2025-05-04 17:11:01,683 - ERROR - Prediction error: X has 5 features, but StandardScaler is expecting 8 features as input.
+2025-05-04 17:11:01,686 - INFO - 127.0.0.1 - - [04/May/2025 17:11:01] "POST /predict HTTP/1.1" 200 -
+2025-05-04 17:11:58,237 - INFO -  * Detected change in 'C:\\Users\\ACER\\OneDrive\\Desktop\\CyberX\\app.py', reloading
+2025-05-04 17:11:58,461 - INFO -  * Restarting with stat
+2025-05-04 17:12:01,728 - INFO - Model loaded successfully
+2025-05-04 17:12:01,755 - WARNING -  * Debugger is active!
+2025-05-04 17:12:01,768 - INFO -  * Debugger PIN: 842-427-434
+2025-05-04 17:12:38,521 - INFO - Model loaded successfully
+2025-05-04 17:12:38,570 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-04 17:12:38,570 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 17:12:38,573 - INFO -  * Restarting with stat
+2025-05-04 17:12:41,140 - INFO - Model loaded successfully
+2025-05-04 17:12:41,170 - WARNING -  * Debugger is active!
+2025-05-04 17:12:41,186 - INFO -  * Debugger PIN: 842-427-434
+2025-05-04 17:12:44,301 - INFO - 127.0.0.1 - - [04/May/2025 17:12:44] "GET / HTTP/1.1" 200 -
+2025-05-04 17:12:44,452 - INFO - 127.0.0.1 - - [04/May/2025 17:12:44] "GET / HTTP/1.1" 200 -
+2025-05-04 17:12:45,655 - INFO - 127.0.0.1 - - [04/May/2025 17:12:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 17:12:45,700 - INFO - 127.0.0.1 - - [04/May/2025 17:12:45] "GET /static/styles.css HTTP/1.1" 200 -
+2025-05-04 17:12:58,649 - ERROR - Prediction error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-04 17:12:58,651 - INFO - 127.0.0.1 - - [04/May/2025 17:12:58] "POST /predict HTTP/1.1" 200 -
+2025-05-04 17:12:58,716 - INFO - 127.0.0.1 - - [04/May/2025 17:12:58] "POST /predict HTTP/1.1" 200 -
+2025-05-04 17:17:30,773 - INFO -  * Detected change in 'C:\\Users\\ACER\\OneDrive\\Desktop\\CyberX\\train_model.py', reloading
+2025-05-04 17:17:31,028 - INFO -  * Restarting with stat
+2025-05-04 17:17:34,180 - INFO - Model loaded successfully
+2025-05-04 17:17:34,213 - WARNING -  * Debugger is active!
+2025-05-04 17:17:34,229 - INFO -  * Debugger PIN: 842-427-434
+2025-05-04 17:17:43,054 - INFO -  * Detected change in 'C:\\Users\\ACER\\OneDrive\\Desktop\\CyberX\\generate_sample_data.py', reloading
+2025-05-04 17:17:43,270 - INFO -  * Restarting with stat
+2025-05-04 17:17:46,632 - INFO - Model loaded successfully
+2025-05-04 17:17:46,660 - WARNING -  * Debugger is active!
+2025-05-04 17:17:46,671 - INFO -  * Debugger PIN: 842-427-434
+2025-05-04 17:20:55,261 - ERROR - Prediction error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-04 17:20:55,307 - INFO - 127.0.0.1 - - [04/May/2025 17:20:55] "POST /predict HTTP/1.1" 200 -
+2025-05-04 17:20:55,351 - INFO - 127.0.0.1 - - [04/May/2025 17:20:55] "POST /predict HTTP/1.1" 200 -
+2025-05-04 17:20:58,437 - INFO -  * Detected change in 'C:\\Users\\ACER\\OneDrive\\Desktop\\CyberX\\app.py', reloading
+2025-05-04 17:20:58,760 - INFO -  * Restarting with stat
+2025-05-04 17:28:00,148 - INFO - Starting model training at 2025-05-04 17:28:00.148442
+2025-05-04 17:28:30,913 - INFO - Model Performance Metrics:
+2025-05-04 17:28:30,914 - INFO - Accuracy: 0.8930
+2025-05-04 17:28:30,914 - INFO - Precision: 0.8550
+2025-05-04 17:28:30,914 - INFO - Recall: 0.8930
+2025-05-04 17:28:30,915 - INFO - F1 Score: 0.8612
+2025-05-04 17:28:30,916 - INFO - Confusion Matrix:
+[[1766   26]
+ [ 188   20]]
+2025-05-04 17:28:31,015 - INFO - Model saved to model.pkl
+2025-05-04 17:28:31,016 - INFO - Model training completed successfully
+2025-05-04 17:31:14,022 - INFO - Starting model training at 2025-05-04 17:31:14.022009
+2025-05-04 17:31:44,990 - INFO - Model Performance Metrics:
+2025-05-04 17:31:44,990 - INFO - Accuracy: 0.8930
+2025-05-04 17:31:44,990 - INFO - Precision: 0.8550
+2025-05-04 17:31:44,991 - INFO - Recall: 0.8930
+2025-05-04 17:31:44,991 - INFO - F1 Score: 0.8612
+2025-05-04 17:31:44,992 - INFO - Confusion Matrix:
+[[1766   26]
+ [ 188   20]]
+2025-05-04 17:31:45,058 - INFO - Model saved to model.pkl
+2025-05-04 17:31:45,059 - INFO - Model training completed successfully
+2025-05-04 17:31:54,794 - INFO - Model loaded successfully
+2025-05-04 17:31:54,894 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-04 17:31:54,895 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 17:31:54,907 - INFO -  * Restarting with stat
+2025-05-04 17:31:57,428 - INFO - Model loaded successfully
+2025-05-04 17:31:57,443 - WARNING -  * Debugger is active!
+2025-05-04 17:31:57,453 - INFO -  * Debugger PIN: 842-427-434
+2025-05-04 17:32:02,353 - INFO - 127.0.0.1 - - [04/May/2025 17:32:02] "GET / HTTP/1.1" 200 -
+2025-05-04 17:32:02,354 - INFO - 127.0.0.1 - - [04/May/2025 17:32:02] "GET / HTTP/1.1" 200 -
+2025-05-04 17:32:03,996 - INFO - 127.0.0.1 - - [04/May/2025 17:32:03] "GET /static/styles.css HTTP/1.1" 200 -
+2025-05-04 17:32:03,996 - INFO - 127.0.0.1 - - [04/May/2025 17:32:03] "GET /static/styles.css HTTP/1.1" 200 -
+2025-05-04 17:32:04,416 - INFO - 127.0.0.1 - - [04/May/2025 17:32:04] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-05-04 17:32:04,435 - INFO - 127.0.0.1 - - [04/May/2025 17:32:04] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2025-05-04 17:32:04,445 - INFO - 127.0.0.1 - - [04/May/2025 17:32:04] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 17:32:04,467 - INFO - 127.0.0.1 - - [04/May/2025 17:32:04] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 17:32:54,537 - INFO -  * Detected change in 'C:\\Users\\ACER\\OneDrive\\Desktop\\CyberX\\app.py', reloading
+2025-05-04 17:32:54,740 - INFO -  * Restarting with stat
+2025-05-04 17:32:57,960 - INFO - Model loaded successfully
+2025-05-04 17:32:57,963 - INFO - Starting Flask application...
+2025-05-04 17:32:57,976 - WARNING -  * Debugger is active!
+2025-05-04 17:32:57,989 - INFO -  * Debugger PIN: 842-427-434
+2025-05-04 17:33:05,034 - ERROR - Token validation failed: Not enough segments
+2025-05-04 17:33:05,035 - INFO - 127.0.0.1 - - [04/May/2025 17:33:05] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 17:33:05,303 - ERROR - Token validation failed: Not enough segments
+2025-05-04 17:33:05,304 - INFO - 127.0.0.1 - - [04/May/2025 17:33:05] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 17:35:19,133 - INFO - Model loaded successfully
+2025-05-04 17:35:19,136 - INFO - Starting Flask application...
+2025-05-04 17:35:19,164 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-04 17:35:19,165 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 17:35:19,167 - INFO -  * Restarting with stat
+2025-05-04 17:35:21,868 - INFO - Model loaded successfully
+2025-05-04 17:35:21,872 - INFO - Starting Flask application...
+2025-05-04 17:35:21,885 - WARNING -  * Debugger is active!
+2025-05-04 17:35:21,898 - INFO -  * Debugger PIN: 842-427-434
+2025-05-04 17:35:34,832 - INFO - 127.0.0.1 - - [04/May/2025 17:35:34] "GET / HTTP/1.1" 200 -
+2025-05-04 17:35:34,852 - INFO - 127.0.0.1 - - [04/May/2025 17:35:34] "GET / HTTP/1.1" 200 -
+2025-05-04 17:35:36,524 - INFO - 127.0.0.1 - - [04/May/2025 17:35:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 17:35:36,531 - INFO - 127.0.0.1 - - [04/May/2025 17:35:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 17:35:36,712 - ERROR - Token validation failed: Not enough segments
+2025-05-04 17:35:36,714 - INFO - 127.0.0.1 - - [04/May/2025 17:35:36] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 17:35:36,741 - ERROR - Token validation failed: Not enough segments
+2025-05-04 17:35:36,742 - INFO - 127.0.0.1 - - [04/May/2025 17:35:36] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 17:35:57,672 - ERROR - Token validation failed: Not enough segments
+2025-05-04 17:35:57,673 - INFO - 127.0.0.1 - - [04/May/2025 17:35:57] "[31m[1mPOST /api/analyze HTTP/1.1[0m" 401 -
+2025-05-04 17:35:57,686 - ERROR - Prediction error: 400 Bad Request: Failed to decode JSON object: None
+2025-05-04 17:35:57,687 - INFO - 127.0.0.1 - - [04/May/2025 17:35:57] "POST /predict HTTP/1.1" 200 -
+2025-05-04 17:36:12,696 - INFO - Starting model training at 2025-05-04 17:36:12.696156
+2025-05-04 17:36:44,430 - INFO - Model Performance Metrics:
+2025-05-04 17:36:44,430 - INFO - Accuracy: 0.8930
+2025-05-04 17:36:44,430 - INFO - Precision: 0.8550
+2025-05-04 17:36:44,431 - INFO - Recall: 0.8930
+2025-05-04 17:36:44,431 - INFO - F1 Score: 0.8612
+2025-05-04 17:36:44,432 - INFO - Confusion Matrix:
+[[1766   26]
+ [ 188   20]]
+2025-05-04 17:36:44,503 - INFO - Model saved to model.pkl
+2025-05-04 17:36:44,504 - INFO - Model training completed successfully
+2025-05-04 17:38:03,823 - INFO - Model loaded successfully
+2025-05-04 17:38:03,826 - INFO - Starting Flask application...
+2025-05-04 17:38:03,856 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-04 17:38:03,856 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 17:38:03,859 - INFO -  * Restarting with stat
+2025-05-04 17:38:06,831 - INFO - Model loaded successfully
+2025-05-04 17:38:06,834 - INFO - Starting Flask application...
+2025-05-04 17:38:06,849 - WARNING -  * Debugger is active!
+2025-05-04 17:38:06,861 - INFO -  * Debugger PIN: 842-427-434
+2025-05-04 17:38:10,813 - INFO - 127.0.0.1 - - [04/May/2025 17:38:10] "GET / HTTP/1.1" 200 -
+2025-05-04 17:38:11,756 - INFO - 127.0.0.1 - - [04/May/2025 17:38:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 17:38:12,079 - ERROR - Token validation failed: Not enough segments
+2025-05-04 17:38:12,081 - INFO - 127.0.0.1 - - [04/May/2025 17:38:12] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 17:38:28,228 - ERROR - Token validation failed: Not enough segments
+2025-05-04 17:38:28,229 - INFO - 127.0.0.1 - - [04/May/2025 17:38:28] "[31m[1mPOST /api/analyze HTTP/1.1[0m" 401 -
+2025-05-04 17:38:28,234 - ERROR - Prediction error: 400 Bad Request: Failed to decode JSON object: None
+2025-05-04 17:38:28,239 - INFO - 127.0.0.1 - - [04/May/2025 17:38:28] "POST /predict HTTP/1.1" 200 -
+2025-05-04 17:38:51,603 - INFO - Model loaded successfully
+2025-05-04 17:38:51,606 - INFO - Starting Flask application...
+2025-05-04 17:38:51,646 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-04 17:38:51,647 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 17:38:51,650 - INFO -  * Restarting with stat
+2025-05-04 17:38:54,454 - INFO - Model loaded successfully
+2025-05-04 17:38:54,457 - INFO - Starting Flask application...
+2025-05-04 17:38:54,470 - WARNING -  * Debugger is active!
+2025-05-04 17:38:54,483 - INFO -  * Debugger PIN: 842-427-434
+2025-05-04 17:38:59,394 - INFO - 127.0.0.1 - - [04/May/2025 17:38:59] "GET / HTTP/1.1" 200 -
+2025-05-04 17:39:00,096 - INFO - 127.0.0.1 - - [04/May/2025 17:39:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 17:39:00,383 - ERROR - Token validation failed: Not enough segments
+2025-05-04 17:39:00,405 - INFO - 127.0.0.1 - - [04/May/2025 17:39:00] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 17:39:14,291 - ERROR - Token validation failed: Not enough segments
+2025-05-04 17:39:14,292 - INFO - 127.0.0.1 - - [04/May/2025 17:39:14] "[31m[1mPOST /api/analyze HTTP/1.1[0m" 401 -
+2025-05-04 17:39:14,298 - ERROR - Prediction error: 400 Bad Request: Failed to decode JSON object: None
+2025-05-04 17:39:14,299 - INFO - 127.0.0.1 - - [04/May/2025 17:39:14] "POST /predict HTTP/1.1" 200 -
+2025-05-04 18:07:06,183 - azure.identity._credentials.managed_identity - INFO - ManagedIdentityCredential will use IMDS
+2025-05-04 18:07:06,184 - azure.identity._credentials.environment - INFO - No environment configuration found.
+2025-05-04 18:07:06,185 - azure.identity._credentials.managed_identity - INFO - ManagedIdentityCredential will use IMDS
+2025-05-04 18:07:06,185 - azure.identity._credentials.managed_identity - INFO - ManagedIdentityCredential will use IMDS
+2025-05-04 18:07:06,186 - azure.identity._credentials.environment - INFO - No environment configuration found.
+2025-05-04 18:07:06,186 - azure.identity._credentials.managed_identity - INFO - ManagedIdentityCredential will use IMDS
+2025-05-04 18:07:06,198 - train_model - ERROR - Error loading model: node array from the pickle has an incompatible dtype:
+- expected: {'names': ['left_child', 'right_child', 'feature', 'threshold', 'impurity', 'n_node_samples', 'weighted_n_node_samples', 'missing_go_to_left'], 'formats': ['<i8', '<i8', '<i8', '<f8', '<f8', '<i8', '<f8', 'u1'], 'offsets': [0, 8, 16, 24, 32, 40, 48, 56], 'itemsize': 64}
+- got     : [('left_child', '<i8'), ('right_child', '<i8'), ('feature', '<i8'), ('threshold', '<f8'), ('impurity', '<f8'), ('n_node_samples', '<i8'), ('weighted_n_node_samples', '<f8')]
+2025-05-04 18:07:06,199 - __main__ - ERROR - Error loading model: node array from the pickle has an incompatible dtype:
+- expected: {'names': ['left_child', 'right_child', 'feature', 'threshold', 'impurity', 'n_node_samples', 'weighted_n_node_samples', 'missing_go_to_left'], 'formats': ['<i8', '<i8', '<i8', '<f8', '<f8', '<i8', '<f8', 'u1'], 'offsets': [0, 8, 16, 24, 32, 40, 48, 56], 'itemsize': 64}
+- got     : [('left_child', '<i8'), ('right_child', '<i8'), ('feature', '<i8'), ('threshold', '<f8'), ('impurity', '<f8'), ('n_node_samples', '<i8'), ('weighted_n_node_samples', '<f8')]
+2025-05-04 18:07:06,205 - __main__ - INFO - Starting Flask application...
+2025-05-04 18:07:06,239 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-05-04 18:07:06,239 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 18:07:30,340 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 18:07:30] "GET / HTTP/1.1" 200 -
+2025-05-04 18:07:33,948 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 18:07:33] "GET / HTTP/1.1" 200 -
+2025-05-04 18:07:34,941 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 18:07:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 18:07:35,187 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 18:07:35,189 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 18:07:35] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 18:07:46,789 - __main__ - ERROR - Error in main training process: 'attack'
+2025-05-04 18:08:20,295 - __main__ - ERROR - Error in main training process: 'attack'
+2025-05-04 18:08:35,163 - azure.identity._credentials.managed_identity - INFO - ManagedIdentityCredential will use IMDS
+2025-05-04 18:08:35,164 - azure.identity._credentials.environment - INFO - No environment configuration found.
+2025-05-04 18:08:35,164 - azure.identity._credentials.managed_identity - INFO - ManagedIdentityCredential will use IMDS
+2025-05-04 18:08:35,165 - azure.identity._credentials.managed_identity - INFO - ManagedIdentityCredential will use IMDS
+2025-05-04 18:08:35,166 - azure.identity._credentials.environment - INFO - No environment configuration found.
+2025-05-04 18:08:35,166 - azure.identity._credentials.managed_identity - INFO - ManagedIdentityCredential will use IMDS
+2025-05-04 18:08:35,173 - train_model - ERROR - Error loading model: node array from the pickle has an incompatible dtype:
+- expected: {'names': ['left_child', 'right_child', 'feature', 'threshold', 'impurity', 'n_node_samples', 'weighted_n_node_samples', 'missing_go_to_left'], 'formats': ['<i8', '<i8', '<i8', '<f8', '<f8', '<i8', '<f8', 'u1'], 'offsets': [0, 8, 16, 24, 32, 40, 48, 56], 'itemsize': 64}
+- got     : [('left_child', '<i8'), ('right_child', '<i8'), ('feature', '<i8'), ('threshold', '<f8'), ('impurity', '<f8'), ('n_node_samples', '<i8'), ('weighted_n_node_samples', '<f8')]
+2025-05-04 18:08:35,174 - __main__ - ERROR - Error loading model: node array from the pickle has an incompatible dtype:
+- expected: {'names': ['left_child', 'right_child', 'feature', 'threshold', 'impurity', 'n_node_samples', 'weighted_n_node_samples', 'missing_go_to_left'], 'formats': ['<i8', '<i8', '<i8', '<f8', '<f8', '<i8', '<f8', 'u1'], 'offsets': [0, 8, 16, 24, 32, 40, 48, 56], 'itemsize': 64}
+- got     : [('left_child', '<i8'), ('right_child', '<i8'), ('feature', '<i8'), ('threshold', '<f8'), ('impurity', '<f8'), ('n_node_samples', '<i8'), ('weighted_n_node_samples', '<f8')]
+2025-05-04 18:08:35,180 - __main__ - INFO - Starting Flask application...
+2025-05-04 18:08:35,203 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-05-04 18:08:35,203 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 18:08:37,282 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 18:08:37] "GET / HTTP/1.1" 200 -
+2025-05-04 18:08:37,903 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 18:08:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 18:08:38,021 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 18:08:38,022 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 18:08:38] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 18:08:55,873 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 18:08:55] "GET / HTTP/1.1" 200 -
+2025-05-04 18:08:55,916 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 18:08:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 18:08:56,036 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 18:08:56,037 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 18:08:56] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 20:08:38,912 - __main__ - ERROR - Error in main training process: 'attack'
+2025-05-04 20:08:57,628 - azure.identity._credentials.managed_identity - INFO - ManagedIdentityCredential will use IMDS
+2025-05-04 20:08:57,628 - azure.identity._credentials.environment - INFO - No environment configuration found.
+2025-05-04 20:08:57,629 - azure.identity._credentials.managed_identity - INFO - ManagedIdentityCredential will use IMDS
+2025-05-04 20:08:57,629 - azure.identity._credentials.managed_identity - INFO - ManagedIdentityCredential will use IMDS
+2025-05-04 20:08:57,630 - azure.identity._credentials.environment - INFO - No environment configuration found.
+2025-05-04 20:08:57,630 - azure.identity._credentials.managed_identity - INFO - ManagedIdentityCredential will use IMDS
+2025-05-04 20:08:57,637 - train_model - ERROR - Error loading model: node array from the pickle has an incompatible dtype:
+- expected: {'names': ['left_child', 'right_child', 'feature', 'threshold', 'impurity', 'n_node_samples', 'weighted_n_node_samples', 'missing_go_to_left'], 'formats': ['<i8', '<i8', '<i8', '<f8', '<f8', '<i8', '<f8', 'u1'], 'offsets': [0, 8, 16, 24, 32, 40, 48, 56], 'itemsize': 64}
+- got     : [('left_child', '<i8'), ('right_child', '<i8'), ('feature', '<i8'), ('threshold', '<f8'), ('impurity', '<f8'), ('n_node_samples', '<i8'), ('weighted_n_node_samples', '<f8')]
+2025-05-04 20:08:57,638 - __main__ - ERROR - Error loading model: node array from the pickle has an incompatible dtype:
+- expected: {'names': ['left_child', 'right_child', 'feature', 'threshold', 'impurity', 'n_node_samples', 'weighted_n_node_samples', 'missing_go_to_left'], 'formats': ['<i8', '<i8', '<i8', '<f8', '<f8', '<i8', '<f8', 'u1'], 'offsets': [0, 8, 16, 24, 32, 40, 48, 56], 'itemsize': 64}
+- got     : [('left_child', '<i8'), ('right_child', '<i8'), ('feature', '<i8'), ('threshold', '<f8'), ('impurity', '<f8'), ('n_node_samples', '<i8'), ('weighted_n_node_samples', '<f8')]
+2025-05-04 20:08:57,640 - __main__ - INFO - Starting Flask application...
+2025-05-04 20:08:57,658 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-05-04 20:08:57,658 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 20:09:02,023 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:09:02] "GET / HTTP/1.1" 200 -
+2025-05-04 20:09:02,535 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:09:02] "GET /static/styles.css HTTP/1.1" 200 -
+2025-05-04 20:09:02,558 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:09:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-04 20:09:02,614 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 20:09:02,615 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:09:02] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 20:09:39,602 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 20:09:39,605 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:09:39] "[31m[1mPOST /api/analyze HTTP/1.1[0m" 401 -
+2025-05-04 20:09:39,608 - __main__ - ERROR - Prediction error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-04 20:09:39,609 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:09:39] "POST /predict HTTP/1.1" 200 -
+2025-05-04 20:10:02,613 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 20:10:02,614 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:10:02] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 20:11:03,297 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 20:11:03,299 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:11:03] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 20:12:03,715 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 20:12:03,715 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:12:03] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 20:12:43,962 - __main__ - ERROR - Error in main training process: 'attack'
+2025-05-04 20:13:03,792 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 20:13:03,792 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:13:03] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 20:13:55,047 - azure.identity._credentials.managed_identity - INFO - ManagedIdentityCredential will use IMDS
+2025-05-04 20:13:55,156 - azure.identity._credentials.environment - INFO - No environment configuration found.
+2025-05-04 20:13:55,156 - azure.identity._credentials.managed_identity - INFO - ManagedIdentityCredential will use IMDS
+2025-05-04 20:13:55,156 - azure.identity._credentials.managed_identity - INFO - ManagedIdentityCredential will use IMDS
+2025-05-04 20:13:55,157 - azure.identity._credentials.environment - INFO - No environment configuration found.
+2025-05-04 20:13:55,157 - azure.identity._credentials.managed_identity - INFO - ManagedIdentityCredential will use IMDS
+2025-05-04 20:13:55,166 - train_model - ERROR - Error loading model: node array from the pickle has an incompatible dtype:
+- expected: {'names': ['left_child', 'right_child', 'feature', 'threshold', 'impurity', 'n_node_samples', 'weighted_n_node_samples', 'missing_go_to_left'], 'formats': ['<i8', '<i8', '<i8', '<f8', '<f8', '<i8', '<f8', 'u1'], 'offsets': [0, 8, 16, 24, 32, 40, 48, 56], 'itemsize': 64}
+- got     : [('left_child', '<i8'), ('right_child', '<i8'), ('feature', '<i8'), ('threshold', '<f8'), ('impurity', '<f8'), ('n_node_samples', '<i8'), ('weighted_n_node_samples', '<f8')]
+2025-05-04 20:13:55,166 - __main__ - ERROR - Error loading model: node array from the pickle has an incompatible dtype:
+- expected: {'names': ['left_child', 'right_child', 'feature', 'threshold', 'impurity', 'n_node_samples', 'weighted_n_node_samples', 'missing_go_to_left'], 'formats': ['<i8', '<i8', '<i8', '<f8', '<f8', '<i8', '<f8', 'u1'], 'offsets': [0, 8, 16, 24, 32, 40, 48, 56], 'itemsize': 64}
+- got     : [('left_child', '<i8'), ('right_child', '<i8'), ('feature', '<i8'), ('threshold', '<f8'), ('impurity', '<f8'), ('n_node_samples', '<i8'), ('weighted_n_node_samples', '<f8')]
+2025-05-04 20:13:55,168 - __main__ - INFO - Starting Flask application...
+2025-05-04 20:13:55,186 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.12:5000
+2025-05-04 20:13:55,186 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 20:14:04,403 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 20:14:04,404 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:14:04] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 20:15:04,569 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 20:15:04,571 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:15:04] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 20:16:04,978 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 20:16:04,982 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:16:04] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 20:16:27,296 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:16:27] "GET / HTTP/1.1" 200 -
+2025-05-04 20:16:27,383 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:16:27] "GET /static/styles.css HTTP/1.1" 200 -
+2025-05-04 20:16:27,621 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 20:16:27,623 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:16:27] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 20:16:59,741 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 20:16:59,742 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:16:59] "[31m[1mPOST /api/analyze HTTP/1.1[0m" 401 -
+2025-05-04 20:16:59,748 - __main__ - ERROR - Prediction error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-04 20:16:59,750 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:16:59] "POST /predict HTTP/1.1" 200 -
+2025-05-04 20:17:03,055 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 20:17:03,057 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:17:03] "[31m[1mPOST /api/analyze HTTP/1.1[0m" 401 -
+2025-05-04 20:17:03,060 - __main__ - ERROR - Prediction error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-05-04 20:17:03,061 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:17:03] "POST /predict HTTP/1.1" 200 -
+2025-05-04 20:17:05,375 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 20:17:05,376 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:17:05] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 20:17:27,755 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 20:17:27,756 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:17:27] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 20:18:05,855 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 20:18:05,856 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:18:05] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 20:18:28,009 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 20:18:28,010 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:18:28] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 20:19:06,398 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 20:19:06,399 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:19:06] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 20:19:28,408 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 20:19:28,409 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:19:28] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 20:20:06,873 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 20:20:06,873 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:20:06] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 20:20:28,405 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 20:20:28,405 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:20:28] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
+2025-05-04 20:21:07,349 - __main__ - WARNING - Invalid token: Not enough segments
+2025-05-04 20:21:07,350 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 20:21:07] "[31m[1mGET /api/threats/recent?hours=24 HTTP/1.1[0m" 401 -
